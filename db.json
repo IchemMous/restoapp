@@ -1,59 +1,5 @@
 [
-        {
-            "price": 8.99,
-            "description": "This perfectly thin cut just melts in your mouth.",
-            "name": "Asian Flank Steak",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/asian-flank-steak.jpeg"
-        },
-        {
-            "price": 6.99,
-            "description": "Seasoned shrimp from the depths of the Atlantic Ocean.",
-            "name": "Blackened Shrimp",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/blackened-shrimp.jpeg"
-        },
-        {
-            "price": 7.49,
-            "description": "The tasty bites of chicken have just the right amount of kick to them.",
-            "name": "Buffalo Chicken Bites",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/buffalo-chicken-bites.jpeg"
-        },
-        {
 
-            "price": 12.99,
-            "description": "These won't last 10 seconds once they hit the table.",
-            "name": "Chicken Avocado Spring Roll",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/chicken-avocado-spring-roll.jpeg"
-        },
-        {
-            "price": 8.99,
-            "description": "It's really hard to keep coming up with these descriptions.",
-            "name": "Chicken Dumplings",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/chicken-dumplings.jpeg"
-        },
-        {
-            "price": 9.99,
-            "description": "You can never go wrong with some good tenders.",
-            "name": "Chicken Fingers",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/chicken-fingers.jpeg"
-        },
-        {
-            "price": 11.49,
-            "description": "You'll need extra napkins with these tasty treats.",
-            "name": "Chicken Wings",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/chicken-wings.jpeg"
-        },
-        {
-            "price": 8.29,
-            "description": "I'm getting soooo hungry building this app...",
-            "name": "Fried Cheese Ravioli",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/fried-cheese-ravioli.jpeg"
-        },
-        {
-            "price": 13.99,
-            "description": "Scrumptious tots with a side of ranch.",
-            "name": "Jumbo Tater Tots",
-            "imageURL": "file:///Users/davidlaiymani/Library/Mobile%20Documents/com~apple~CloudDocs/Enseignement/iOS/LP/Appetizer/Photos/jumbo-tater-tot.jpeg"
-        },
         {
             "price": 12.99,
             "description": "It's a spiiiiicy meat-a-ball!",
